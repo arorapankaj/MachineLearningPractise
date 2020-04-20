@@ -1,0 +1,7 @@
+# Ignoring all the PDF files
+*.pdf
+
+# Ignore all the Jupyter checkpoint folders
+.ipynb_checkpoints
+cache
+__pycache__
