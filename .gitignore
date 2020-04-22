@@ -5,3 +5,6 @@
 .ipynb_checkpoints
 cache
 __pycache__
+
+# Ignore the Fashion MNIST File as it is too big
+fashion-mnist_train.csv
